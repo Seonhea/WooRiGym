@@ -30,11 +30,11 @@
 Language | Java 8, Servlet/JSP, HTML5, CSS3, JavaScript
 ------------ | ------------- 
 Browser | Chrome, Whale 
-Web Application Server | Apache Tomcat 8.5
+Web Application Server | Apache Tomcat 8.5, Filezilla
 Database|Oracle 11g Express Edition
 Framework & Open Api|Ajax, jQuery, Daum 주소찾기
-설계분석도구|erdCloud, draw.io
-IDE|STS 3.9.12 / sqldeveloper
+Document| Google Drive, erdCloud, draw.io
+IDE| Eclipse(2021-06), Visual Studio Code /sqldeveloper
 Version Control System|Git / github
 ***
 ## 프로젝트 기능 구현
