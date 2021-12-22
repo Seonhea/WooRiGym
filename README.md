@@ -65,7 +65,7 @@ Version Control System|Git / github
 3. SQL문  
 [[우리짐] Dclass_gym_gym2021.txt](https://github.com/Seonhea/WooRiGym/files/7762382/Dclass_gym_gym2021.txt)
 
-4. 보고서 및 발표PPT  
+4. 보고서  
 [[우리짐] 기획보고서.pdf](https://github.com/Seonhea/WooRiGym/files/7762325/3.pdf)  
 [[우리짐] 클래스 설계보고서.pdf](https://github.com/Seonhea/WooRiGym/files/7762327/3.pdf)  
 [UI디자인-포트폴리오 채선혜.pdf](https://github.com/Seonhea/WooRiGym/files/7762360/UI.-.21-10-28.pdf)
