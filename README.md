@@ -1,8 +1,6 @@
 # 우리짐으로 가자♬ [우리짐]
 팀원: 채선혜, 김정기, 나효원, 박준엽, 백건호
 
-[WAR 배포 링크](http://112.221.156.36:8090/almin) ✔Click
-
 ## Contents 
 1. 개요
 2. 설계의 주안점
@@ -54,7 +52,7 @@ Version Control System|Git / github
     * 상품 문의(Q&A)
 
 ## 주요 기능
-* [UI 설계서 링크](https://xd.adobe.com/view/186c059a-7392-4abf-a66d-e19bbca9ee3b-4d3f/) ✔Click
+
 ***
 ## Document
 1. 유스케이스
@@ -64,8 +62,7 @@ Version Control System|Git / github
 <img src="https://user-images.githubusercontent.com/89828294/147082767-f615dad8-e137-478c-a379-5fdce2965f43.png">
 
 3. SQL문  
-[[알바의 민족] Oracle DB 계정생성.txt](https://github.com/Seonhea/AlMin/files/7760540/Oracle.DB.txt)  
-[Dclass_almin_almin2021.txt](https://github.com/Seonhea/AlMin/files/7760493/Dclass_almin_almin2021.txt)
+[[우리짐] Dclass_gym_gym2021.txt](https://github.com/Seonhea/WooRiGym/files/7762382/Dclass_gym_gym2021.txt)
 
 4. 보고서 및 발표PPT  
 [[우리짐] 기획보고서.pdf](https://github.com/Seonhea/WooRiGym/files/7762325/3.pdf)  
