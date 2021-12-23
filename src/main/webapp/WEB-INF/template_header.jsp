@@ -100,8 +100,8 @@
   <form>
   <table>
   <tr> <!-- 21.10.23 추가 SH -->
-		<!--  <td><input type="text" name="keyword" class="keyword_input" id="keyword_input_var" placeholder="상품명 입력"></td> -->
-		<td><a href="<%=ctxPath %>/searchpage" class="button" id="searchBtn_var"><img src='./images/검색_돋보기.png' alt="검색" width="20px"/></a></td>
+		  <td><input type="text" name="keyword" class="keyword_input" id="keyword_input_var" placeholder="상품명 입력"></td>
+		  <td><a href="<%=ctxPath %>/searchpage" class="button" id="searchBtn_var"><img src='./images/검색_돋보기.png' alt="검색" width="20px"/></a></td>
 </tr>
 </table>
 </form>

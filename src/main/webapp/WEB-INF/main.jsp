@@ -5,6 +5,7 @@
    <!-- 헤더 CSS -->
 <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/template_header.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <!-- 푸터 CSS -->
 <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/template_footer.css"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
    <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -22,26 +23,22 @@
         <style>
 /* reset */
  * {
-            margin: 0;
-            padding: 0;
+  margin: 0;
+  padding: 0;
 }
  body{
     font-family: 'Noto Sans KR', sans-serif;
-    text-align: center;
 }
-footer{
-	margin: 0 auto;
-	text-align: center;
+.box{
+	flex-wrap: nowrap;
+	justify-content: center;
 }
-			.box{
-					flex-wrap: nowrap;
-					justify-content: center;
-			}
-            section {
-                width: 1200px;
-                padding: 30px 0 30px 0;
-                margin: 0 auto;
-            }
+ section {
+ text-align: center;
+ width: 1200px;
+ padding: 30px 0 30px 0;
+ margin: 0 auto;
+}
         
         /* 신상품 | 인기상품 | 타임세일 */
             #main_bnb {
@@ -83,9 +80,7 @@ footer{
               /* display: inline-block; */
               width: 250px;
           }
-            </style>
             <!-- Slideshow / Carousel -->
-            <style>
 			* {box-sizing: border-box;}
 			.mySlides {display: none;}
 			img {vertical-align: middle;}
@@ -204,7 +199,6 @@ footer{
   </section>
   </div>
 </body>
-<footer>
+<!-- 공통푸터 템플릿 -->
 <%@ include file="template_footer.jsp"%>
-</footer>
 </html>

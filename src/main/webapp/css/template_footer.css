@@ -2,7 +2,9 @@
 footer{
 	width: 100%;
 	border-top : 1px solid rgb(197, 188, 188);
-	font-size : 12;
+	font-size : .8rem;
+	text-align: center;
+   	margin: 0 auto;
 }
 footer div{
 	width:1200px;
