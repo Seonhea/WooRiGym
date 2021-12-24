@@ -1,6 +1,7 @@
 # 우리짐으로 가자♬ [우리짐]
-팀원: 채선혜, 김정기, 나효원, 박준엽, 백건호
-<img alt="공로상(채선혜)" src="https://user-images.githubusercontent.com/89828294/147310171-eef934a3-e3b9-4c38-a8ea-8e5f7bdf29f5.jpg">
+팀원: 채선혜, 김정기, 나효원, 박준엽, 백건호  
+
+<img alt="공로상(채선혜)" style="width: 500px" src="https://user-images.githubusercontent.com/89828294/147310171-eef934a3-e3b9-4c38-a8ea-8e5f7bdf29f5.jpg">
 
 ## Contents 
 1. 개요
