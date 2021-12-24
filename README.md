@@ -1,5 +1,6 @@
 # 우리짐으로 가자♬ [우리짐]
 팀원: 채선혜, 김정기, 나효원, 박준엽, 백건호
+<img alt="공로상(채선혜)" src="https://user-images.githubusercontent.com/89828294/147310171-eef934a3-e3b9-4c38-a8ea-8e5f7bdf29f5.jpg">
 
 ## Contents 
 1. 개요
@@ -95,5 +96,4 @@ Version Control System|Git / github
 [[우리짐] 기획보고서.pdf](https://github.com/Seonhea/WooRiGym/files/7762325/3.pdf)  
 [[우리짐] 클래스 설계보고서.pdf](https://github.com/Seonhea/WooRiGym/files/7762327/3.pdf)  
 [UI디자인-포트폴리오 채선혜.pdf](https://github.com/Seonhea/WooRiGym/files/7762360/UI.-.21-10-28.pdf)
-
 
